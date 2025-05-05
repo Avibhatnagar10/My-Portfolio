@@ -14,12 +14,12 @@ interface Experience {
 const Experience: NextPage = () => {
   const experiences: Experience[] = [
     {
-      title: "Founder",
-      company: "HextaStudio",
-      duration: "2022 - Present",
+      title: "Software Developer",
+      company: "Tech Firefly",
+      duration: "March 2025 - Present",
       description: [
-        "Built and launched 15+ SaaS products",
-        "Grew to $5k within first 6 months",
+        "Building a SaaS Platform",
+        
       ],
     },
   ];
