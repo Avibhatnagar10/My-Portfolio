@@ -7,6 +7,7 @@ const About = dynamic(() => import("../components/About"));
 const Experience = dynamic(() => import("../components/Experience"));
 const Projects = dynamic(() => import("../components/Projects"));
 const Connect = dynamic(() => import("../components/Connect"));
+const TechStack = dynamic(() => import("../components/Tech"));
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
       <Navbar />
       <Hero />
       <About />
+      <TechStack />
       <Experience />
       <Projects />
       <Connect />
