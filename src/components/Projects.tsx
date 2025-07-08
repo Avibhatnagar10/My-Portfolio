@@ -22,7 +22,7 @@ const Projects: NextPage<Props> = ({}) => {
       title: "NexStream - A Live Streaming Platform ",
       description: "AI-powered live streaming platform designed for seamless collaboration, real-time engagement, and smart content moderation.",
       image: "/nexstream.png",
-      link: "https://nexstream-rdgvwggci-avibhatnagar10s-projects.vercel.app/",
+      link: "https://nexstream-1011.vercel.app/",
       tags: ["Next.js", "TypeScript", "Tailwind", "Framer Motion"],
     },
     {
