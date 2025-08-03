@@ -33,6 +33,13 @@ const Projects: NextPage<Props> = ({}) => {
       tags: ["React.js", "TypeScript", "Youtube API", "Docker", "Python", "NLP Models"],
     },
     {
+      title: "Live-Polling System",
+      description: "A lightning-fast live polling system that lets you ask questions in real time, collect instant feedback from participants, and view live results as they come in. ",
+      image: "/livepoll.png",
+      link: "https://live-polling-system-eta.vercel.app/",
+      tags: ["React.js", "Node.js", "Socket.io", "Express.js" ],
+    },
+    {
       title: "AniVara",
       description: "Watch anime and manga in high quality.",
       image: "/anivara.png",
