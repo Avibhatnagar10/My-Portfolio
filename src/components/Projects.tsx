@@ -22,7 +22,7 @@ const Projects: NextPage<Props> = ({}) => {
       title: "NexStream - A Live Streaming Platform ",
       description: "AI-powered live streaming platform designed for seamless collaboration, real-time engagement, and smart content moderation.",
       image: "/nexstream.png",
-      link: "https://nexstream-1011.vercel.app/",
+      link: "https://nexstream-rdgvwggci-avibhatnagar10s-projects.vercel.app/",
       tags: ["Next.js", "TypeScript", "Tailwind", "Framer Motion"],
     },
     {
@@ -40,13 +40,21 @@ const Projects: NextPage<Props> = ({}) => {
       tags: ["React.js", "Node.js", "Socket.io", "Express.js" ],
     },
     {
+      title: "Note Taking Application",
+      description: "A sleek and intuitive note-taking application that allows users to create, edit, and organize their notes with ease. ",
+      image: "/notes.png",
+      link: "https://note-desk.vercel.app/",
+      tags: ["React.js", "Node.js", "Express.js", "MongoDB", "Mongoose", "Redis", "Socket.io", "jsonwebtoken", "bcrypt" ,"zustand" ],
+    },
+    
+    {
       title: "AniVara",
       description: "Watch anime and manga in high quality.",
       image: "/anivara.png",
       link: "https://ani-vara.vercel.app/",
       tags: ["React.js", "Material UI", "Framer Motion", "TypeScript" ],
     },
-   
+    
   ];
 
   return (
